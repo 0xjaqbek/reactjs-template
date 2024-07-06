@@ -246,4 +246,5 @@ project's information.
 - [@tma.js/sdk-react documentation](https://docs.telegram-mini-apps.com/packages/tma-js-sdk-react)
 - [Telegram developers community chat](https://t.me/devs)
 #   w y s c i g  
+ #   w y s c i g  
  
